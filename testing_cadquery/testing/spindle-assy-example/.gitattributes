@@ -1,0 +1,2 @@
+*.dxf -diff -text
+*.png -diff -text
